@@ -74,7 +74,7 @@ for num_file=1:length(BundleFileName)
     set(plot2,'DisplayName',['bundle (' num2str(bundle_counter) ')']);
 
     bundle_counter=  bundle_counter-1;
-
+grid on
     % Create ylabel
     ylabel({'Percentage of active channels', '(25 kΩ < Z < 5 MΩ)'});
 
@@ -109,9 +109,10 @@ for num_file=1:length(BundleFileName)
     legend(gca,'show');
     %    ylim([0 max([[Neurons_active_per_session.left] [Neurons_active_per_session.right]]+5)])
     ylim([0 65])
+    xlim([0,max(counter_calid_segment_x_plot)])
     xticks(round(linspace(0, max(counter_calid_segment_x_plot), 10)))
     % xticklabels([1 26 44 62 79 107 120 140])
-
+grid on
     box on
 
 end

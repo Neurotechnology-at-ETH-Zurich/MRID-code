@@ -1,4 +1,4 @@
-# Magnetic Resonance Identification Tags analysis code
+# Magnetic Resonance Identification Tags analysis and electrode localization
 
 This repository contains code and resources associated with the Nature Communications publication describing Magnetic Resonance Identification (MRID) Tags for ultra-flexible neural electrodes to identify and localize electrode channels in the brain.
 

@@ -55,16 +55,14 @@ def map_coordinates(fixedImg, movingImg, transform_moving2fixed):
 
     return moving_coordinates, fixed_coordinates
 
-root="/Users/eminhanozil/Dropbox (Yanik Lab)/Localization Manuscript 2024/RAT DATA"
-# root = "/Users/eminhanozil/Dropbox (Yanik Lab)/BMI/data/"
+root="./"
 fixedPath=os.path.join(root, "WHS_SD_rat_atlas_v4_pack","WHS_SD_rat_T2star_v1.01.nii.gz")
 fixedImg = load_sitkimage(fixedPath)
 
 fixedPoints_name="fixed_img-indeces.npy"
 movingPoints_name="moving_img_resampled25um-indeces.npy"
 
-animal="rEO_10"
-# animal = "rEO_06"
+animal=""
 path = os.path.join(root, animal, "mri")
 sessions = os.listdir(path)
 

@@ -9,8 +9,11 @@ Associated Publication
 This repository accompanies the following paper:
 
 Title: Magnetic Resonance Identification Tags for Ultra-flexible Electrodes
+
 Journal: Nature Communications
+
 Authors: Eminhan Özil✥, Peter Gombkoto✥, Athina Apostolelli, Tansel Baran Yasar, Angeliki D. Vavladeli, Markus Marks, Manabu Rohr-Fukuma, Wolfger von der Behrens, Mehmet Fatih Yanik
+
 Year: 2026
 
 If you use this repository or its methods, please cite the publication and repository.

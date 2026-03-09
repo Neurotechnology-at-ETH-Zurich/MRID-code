@@ -16,7 +16,7 @@ Authors: Eminhan Özil✥, Peter Gombkoto✥, Athina Apostolelli, Tansel Baran Y
 
 Year: 2026
 
-If you use this repository or its methods, please cite the publication and repository.
+If you use this repository or its methods, please cite the publication and repository (https://doi.org/10.5281/zenodo.18917094).
 
 ## Purpose
 

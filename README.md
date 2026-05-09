@@ -4,6 +4,8 @@ This repository contains code and resources associated with the Nature Communica
 
 The scripts provided here support electrode localization and analysis used in the study.
 
+<img width="7264" height="2647" alt="figure-1-main" src="https://github.com/user-attachments/assets/1c87ee2a-84dc-417c-b97a-325fc391e0ca" />
+
 ## Associated Publication
 
 This repository accompanies the following paper:
